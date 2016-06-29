@@ -1,0 +1,6 @@
+{
+  "name": "Rocnikovyprojekt",
+  "tagline": "",
+  "body": "### Light Bot\r\nVítam Vás na mojej stránke k ročníkovému projektu\r\n\r\n### O hre\r\nZákladnou myšlienkou je dostať robota k cieľu. Tam sa dostane nasledovaním trasy ktorú mu predtým hráč vytvorí.\r\nPointou je, že hráč trasu robota \"naprogramuje\" dopredu a nemôže robota ovládať počas jeho pohybu.\r\n\r\n### Priebeh hry\r\nHráč presunie robota na jedno zo štartovacích políčok. Následne šípkami na klávesnici určí trasu robota. Keď si myslí, že po tejto trase sa robot dostane na koncové políčko určí mu aby zasvietil. Tým potvrdí koniec trasy. Následne spustí beh robota a vidí ako sa hýbe po ním určenej trase.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
